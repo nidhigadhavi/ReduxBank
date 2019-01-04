@@ -1,6 +1,6 @@
 {
   "author": "nidhi.gadhavi",
-  "name": "bank",
+  "name": "@nidhi.gadhavi/Bank",
   "version": "0.1.0",
   "dependencies": {
     "react": "^16.4.1",
